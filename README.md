@@ -2,7 +2,7 @@
 - I am professional QA Tester
 - 👀 I’m interested in Testing
 - 🌱 I’m currently learning Automation Frameworks in Python & JavaScript
-- 💞️ I’m looking to collaborate on Manual Testing
+- 💞️ I’m looking to collaborate on Manual & Autotmation Testing
 - 📫 How to reach me tayyabjaved1@outlook.com
 
 <!---
